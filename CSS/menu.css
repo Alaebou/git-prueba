@@ -1,0 +1,47 @@
+
+ 
+
+table,
+th,
+tr,
+td {
+  border: 3px solid rgb(148, 147, 147);
+
+}
+table {
+border-collapse: collapse;
+border: 3px solid rgb(128, 128, 128);
+}
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:#f06f06
+}
+
+td{
+background-color: #ffffff;
+color:#070607
+}
+th{
+
+background-color:  #eb0492;
+color: white;
+padding: 25px;
+
+}
+body {
+background-color:#ecbdda;
+
+}
+
+a:link, a:visited {
+color: rgb(100, 98, 110);
+text-decoration: none;
+}
+
+a:hover {
+color: rgb(47, 241, 21);
+font-size: 1.3em;
+text-decoration: underline;
+}
+
+

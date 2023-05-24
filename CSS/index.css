@@ -1,0 +1,29 @@
+
+h1 {
+					font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+  /* se utiliza Arial como fuente */
+  
+  color: rgb(212, 96, 28); 
+  /* el texto será rojo */
+  
+}
+body{
+	background-color: #ecbdda;
+}
+
+td {
+  border: 5px dotted rgb(112, 115, 122); 
+  /* establece un borde punteado de 1 píxel de grosor y color gris claro */
+}
+
+a:link, a:visited {
+  color: rgb(100, 98, 110);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(37, 228, 20);
+  font-size: 1.3em;
+  text-decoration: underline;
+}
+

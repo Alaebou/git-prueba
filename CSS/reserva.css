@@ -1,0 +1,40 @@
+
+        h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#f06f06
+}
+
+td{
+  background-color: #ffffff;
+  color:#070607
+}
+th{
+  
+  background-color:  #eb0492;
+  color: white;
+  padding: 25px;
+
+}
+body {
+   background-color:#ecbdda;
+
+}
+div {
+    background-image: url(patron.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    padding: 40px;
+    border: 3px solid red;
+}
+
+a:link, a:visited {
+  color: rgb(100, 98, 110);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(47, 241, 21);
+  font-size: 1.3em;
+  text-decoration: underline;
+}
+    
